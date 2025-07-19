@@ -45,13 +45,13 @@ DEZCSNVIPAW1IQ3M
 
 3. 系统会自动验证免费激活码
 
-   ![登录界面](images/login-interface.png)
+   ![登录界面](https://github.com/1022632560/augment-free/raw/main/images/login-interface.png)
 
 ### 第三步：获取账号
 
 1. 登录成功后，点击 **"获取新账号"** 按钮
 
-   ![获取账号界面](images/get-account.png)
+   ![获取账号界面](https://github.com/1022632560/augment-free/raw/main/images/get-account.png)
 
 ### 第四步：享受服务
 
